@@ -1,0 +1,6 @@
+cryptography==38.0.1
+Flask==2.2.2
+Flask_SocketIO==5.1.1
+pycryptodome==3.15.0
+python-socketio==5.11.2
+TgCrypto==1.2.5
